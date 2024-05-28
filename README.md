@@ -17,7 +17,10 @@ Players can choose from a list of vehicles. Which can be changed in the menu.lua
 ![image](https://github.com/PHM4/VehicleSpawner-Fivem/assets/106679910/164070d3-b197-42fa-8ef7-0779e3ba603a)
 
 This selection is facilitated through a list item within the menu, allowing for easy scrolling and selection.
-Dynamic Vehicle Spawning: Upon selection, the script handles the game mechanics to spawn the chosen vehicle near the player's current location. This includes loading the vehicle model dynamically, ensuring it is properly placed on the ground, and handling any necessary game physics.
+
+**Dynamic Vehicle Spawning:**
+
+Upon selection, the script handles the game mechanics to spawn the chosen vehicle near the player's current location. This includes loading the vehicle model dynamically, ensuring it is properly placed on the ground, and handling any necessary game physics.
 
 **Menu Visibility Management:** 
 
