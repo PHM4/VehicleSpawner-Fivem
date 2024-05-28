@@ -1,5 +1,4 @@
 # VehicleSpawner
-native ui 
 
 **KNOWN BUG:**
 > [!CAUTION]
@@ -9,7 +8,7 @@ native ui
 
 ![image](https://github.com/PHM4/VehicleSpawner-Fivem/assets/106679910/dcb58b2e-3786-49ef-8aa9-f349b5ec4b09)
 
-Utilizes [NativeUI](https://github.com/Guad/NativeUI/releases) to create a visually engaging and interactive menu named "Vehicle Spawner," showcasing various vehicles that players can spawn directly in the game.
+Uses [NativeUI](https://github.com/Guad/NativeUI/releases) to create a visually engaging and interactive menu named "Vehicle Spawner," showcasing various vehicles that players can spawn directly in the game.
 
 **Vehicle Selection:**
 
