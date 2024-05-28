@@ -26,3 +26,5 @@ The script toggles the visibility of the menu with the F5 key, providing a quick
 **Notifications:**
 
 Feedback is provided through in-game notifications, informing the player of the current actions being taken, such as which vehicle is successfully spawned. This helps in keeping the player informed about the process and results.
+
+![image](https://github.com/PHM4/VehicleSpawner-Fivem/assets/106679910/728fb0d1-c23e-4366-82ea-432608fc461b)
